@@ -1,39 +1,269 @@
 
-# spark
+# Reto Spark <!-- omit in toc -->
 
-A `debian:stretch` based [Spark](http://spark.apache.org) container. Use it in a standalone cluster with the accompanying `docker-compose.yml`, or as a base for more complex recipes.
+Mi primer código en Spark/Scala montado en un contenedor Docker
 
-## docker example
+## Tabla de Contenido<!-- omit in toc -->
+- [Retos a realizar](#retos-a-realizar)
+  - [Película más Popular](#pel%c3%adcula-m%c3%a1s-popular)
+  - [Estadísticas del Corazón](#estad%c3%adsticas-del-coraz%c3%b3n)
+- [Metodología de solución](#metodolog%c3%ada-de-soluci%c3%b3n)
+- [Ambiente SPARK](#ambiente-spark)
+  - [Versiones utilizadas](#versiones-utilizadas)
+  - [Requerimientos](#requerimientos)
+  - [Contenedor SPARK](#contenedor-spark)
+    - [Instalación rápida](#instalaci%c3%b3n-r%c3%a1pida)
+    - [Instalación lenta](#instalaci%c3%b3n-lenta)
+- [Solución de los ejercicios](#soluci%c3%b3n-de-los-ejercicios)
+  - [Reto 1](#reto-1)
+- [Apuntes](#apuntes)
 
-To run `SparkPi`, run the image with Docker:
+# Retos a realizar
+## Película más Popular
+El dataset u.data contiene estadísticas de películas vistas antes de la fecha 4/1998. Encontrar las 10 películas más vistas del dataset.
 
-    docker run --rm -it -p 4040:4040 gettyimages/spark bin/run-example SparkPi 10
+## Estadísticas del Corazón
+El dataset heart.csv contiene registros médicos de pruebas cardiovasculares. Encontrar el promedio de colesterol (columna chol) de las personas entre las edades de 40 y 50 años.
 
-To start `spark-shell` with your AWS credentials:
+Resultados esperados:
 
-    docker run --rm -it -e "AWS_ACCESS_KEY_ID=YOURKEY" -e "AWS_SECRET_ACCESS_KEY=YOURSECRET" -p 4040:4040 gettyimages/spark bin/spark-shell
+	* Especificar entorno de desarrollo utilizado.
+	* Especificar version de Spark y Scala.
+	* Archivo .scala con la solución de cada uno de los problemas (1 archivo por actividad).
+	* Muestra de ejecución (Mostrar resultados).
+	* Crear un archivo .jar para ejecución en un cluster de Spark.
 
-To do a thing with Pyspark
+# Metodología de solución
+Al no saber sobre estás tecnologías el primer paso fue la contextualización sobre Hadoop, Spark y Scala. 
+Los pasos fueron los siguientes
 
-    echo -e "import pyspark\n\nprint(pyspark.SparkContext().parallelize(range(0, 10)).count())" > count.py
-    docker run --rm -it -p 4040:4040 -v $(pwd)/count.py:/count.py gettyimages/spark bin/spark-submit /count.py
+* Probar Scala y SBT en Windows 10 junto con Scalafiddle
+* Crear un entorno de desarrollo basado en Docker para Spark y Scala
+* Aprender sobre SBT y SCALA realizando ejercicios sencillos sobre el lenguaje
+* Crear un contenedor con SPARK listo para funcionar en clúster con un maestro y un esclavo
+* Compilar un ejemplo de SPARK-SCALA para entender el ambiente y entorno
+* Realizar los ejercicios
 
-## docker-compose example
+El procedimiento es el siguiente:
 
-To create a simplistic standalone cluster with [docker-compose](http://docs.docker.com/compose):
+# Ambiente SPARK
 
-    docker-compose up
+## Versiones utilizadas
+* SPARK_VERSION 2.4.1
+* SCALA 2.11.12
+* Java 1.8.0_222
 
-The SparkUI will be running at `http://${YOUR_DOCKER_HOST}:8080` with one worker listed. To run `pyspark`, exec into a container:
+Para obtener las últimas versiones, es necesario reconstruir con el DockerFile de este repositorio. Sin embargo, al ser un contenedor se puede desplegar en cualquier entorno con ambas configuraciones
 
-    docker exec -it docker-spark_master_1 /bin/bash
-    bin/pyspark
+El Dockerfile fue basado en gettyimages/spark y adaptado al ejercicio (https://hub.docker.com/r/gettyimages/spark/)
 
-To run `SparkPi`, exec into a container:
+## Requerimientos
+* Docker (https://www.docker.com/)
+* Git (https://git-scm.com/)
 
-    docker exec -it docker-spark_master_1 /bin/bash
-    bin/run-example SparkPi 10
+Opcional para instalación en windows, ya que se puede trabajar con el contenedor unicamente
+* Java 8 (https://adoptopenjdk.net/)
+* Scala (https://www.scala-lang.org/download/) 
+* SBT (https://www.scala-sbt.org/download.html)
 
-## license
+Visualizador de código usado
+* VSCode (https://code.visualstudio.com/)
+* IntelliJIDEA (https://www.jetbrains.com/es-es/idea/)
+* El código se encuentra mapeado a la carpeta ``/scala``
 
-MIT
+Para probar scripts sencillos en Scala via web
+* https://scalafiddle.io/
+
+## Contenedor SPARK
+
+1.- Descarga del repositorio y posicionarse en la carpeta
+```shell
+cd docker-spark
+```
+
+Ahora, se pueden seguir dos caminos, si no importa contar con las últimas versiones ejecutar la versión rápida
+
+### Instalación rápida
+
+Usando la imagen gettyimages/spark
+
+2.- Descargar la imagen construida y lista para usar
+
+```bash
+docker pull gettyimages/spark
+```
+
+Levantar el entorno con un maestro y un esclavo
+
+```shell
+docker-compose up -d
+docker ps
+```
+
+Después de esto el entorno se encontrará habilitado: 
+* Master: http://localhost:8080/
+* Worker: http://localhost:8081/
+
+3.- Ingresamos a la consola de comandos para ejecutar las tareas en Scala
+```shell
+docker exec -it docker-spark_master_1 bash
+```
+
+4.- Instalar Scala y el manejador de paquetes SBT en la maquina
+
+```bash
+apt-get update && curl -OL https://www.scala-lang.org/files/archive/scala-2.11.12.deb && dpkg -i scala-2.11.12.deb && rm -f scala-2.11.12.deb
+apt-get update && curl -OL https://bintray.com/artifact/download/sbt/debian/sbt-1.3.8.deb && dpkg -i sbt-1.3.8.deb && rm -f sbt-1.3.8.deb
+```
+
+Listo el entorno está configurado y listo
+
+<div align="center">
+  <img src="images/Spark.png">
+  <small><p>Spark funcionando en el puerto 8080</p></small>
+</div>
+
+### Instalación lenta
+Dependiendo de los recursos puede tardar un tiempo, por la descarga, instalación y construcción de la imagen
+Imagen preconfigurada con versiones actualizadas, se modifico el dockerfile
+
+2.- Construir la imagen con el ambiente Spark
+```shell
+docker build -t spark-scala .
+```
+El comando anterior creara una imagen spark-scala con el S.O. debian con las configuraciones necesarias. 
+
+Para verificar
+```bash
+docker images
+```
+
+Levantar el entorno con un maestro y un esclavo.  Editar antes el docker-compose con el nombre de la imagen spark-scala que se acaba de instalar
+
+```shell
+docker-compose up -d
+docker ps
+```
+
+3.- Ingresamos a la consola de comandos para ejecutar las tareas en Scala
+```shell
+docker exec -it docker-spark_master_1 bash
+```
+
+<div align="center">
+  <img src="images/build.png">
+  <small><p>Imagen creada</p></small>
+</div>
+
+Modificar el docker-compose con el nombre de la imagen `spark-scala` antes de ejecutar los siguiente
+
+Levantar el entorno con un maestro y un esclavo
+
+```shell
+docker-compose up -d
+docker ps
+```
+
+Después de esto el entorno se encontrará habilitado: 
+* Master: http://localhost:8080/
+* Worker: http://localhost:8081/
+
+3.- Ingresamos a la consola de comandos para ejecutar las tareas en Scala
+```shell
+docker exec -it docker-spark_master_1 bash
+```
+
+# Solución de los ejercicios
+
+Los archivos fuente se encuentran dentro de la carpeta /scala
+
+* /code (contiene el código escrito en scala)
+* /data (contiene las fuentes de datos)
+
+Los archivos se encuentran en /home
+
+Para ejecutar el ejemplo de spark
+
+```bash
+cd /home/code/example
+
+sbt package
+
+/usr/spark-2.4.1/bin/spark-submit --class "SimpleApp" --master local[4] target/scala-2.11/simple-project_2.11-1.0.jar
+
+/usr/spark-2.4.1/bin/spark-shell --jars target/scala-2.11/simple-project_2.11-1.0.jar
+```
+
+## Reto 1
+
+```bash
+cd /home/code/heart
+sbt package
+```
+
+Compila el código y genera el .jar en target/scala-2.11/movies_2.11-1.0.jar
+
+<div align="center">
+  <img src="images/SBTMovies.png">
+  <small><p>Resultado del programa</p></small>
+</div>
+
+Para enviarlo a SPARK
+
+```bash
+/usr/spark-2.4.1/bin/spark-submit --class "Movies" --master local[4] target/scala-2.11/movies_2.11-1.0.jar
+```
+
+<div align="center">
+  <img src="images/Reto1.png">
+  <small><p>Resultado del programa</p></small>
+</div>
+```
+
+## Reto 2
+
+```bash
+cd /home/code/heart
+sbt package
+```
+
+Compila el código y genera el .jar en target/scala-2.11/heart_2.11-1.0.jar
+
+<div align="center">
+  <img src="images/SBTHeart.png">
+  <small><p>Resultado del programa</p></small>
+</div>
+
+Para enviarlo a SPARK
+
+```bash
+/usr/spark-2.4.1/bin/spark-submit --class "HeartSpark" --master local[4] target/scala-2.11/heart_2.11-1.0.jar
+```
+
+<div align="center">
+  <img src="images/Reto2.png">
+  <small><p>Resultado del programa</p></small>
+</div>
+
+Para ejecutar usando spark-shell
+
+```bash
+/usr/spark-2.4.1/bin/spark-shell --jars target/scala-2.11/heart_2.11-1.0.jar
+```
+
+```scala
+HeartSpark.main(Array())
+```
+
+La tarea se puede ver en http://localhost:4040
+
+<div align="center">
+  <img src="images/SparkHeart.png">
+  <small><p>Resultado del programa</p></small>
+</div>
+
+# Apuntes
+
+Conocimiento adquirido para realizar el ejercicio
+
+[BigData Hadoop Spark SCALA](apuntes/README.md)

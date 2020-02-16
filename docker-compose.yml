@@ -1,4 +1,4 @@
-version: "2.2"
+version: "2.3"
 services:
   master:
     image: gettyimages/spark
@@ -24,6 +24,7 @@ services:
     volumes:
       - ./conf/master:/conf
       - ./data:/tmp/data
+      - ./scala:/home
 
   worker:
     image: gettyimages/spark

@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/code/movies/src/main/scala/Movies.scala:37:7: not found: value readMoviesCSV[0m
+[0m[[0m[31merror[0m] [0m[0m      readMoviesCSV.write.parquet("/home/data/movies.parquet")[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/code/movies/src/main/scala/Movies.scala:40:7: not found: value readMoviesCSV[0m
+[0m[[0m[31merror[0m] [0m[0m      readMoviesCSV.write.parquet("/home/data/movies.parquet")[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

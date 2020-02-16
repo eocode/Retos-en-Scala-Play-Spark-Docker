@@ -1,0 +1,773 @@
+INFO  started: Metals version 0.8.0 in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'
+INFO  time: initialize in 0.43s
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\test.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\test.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\test.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\test.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.0 in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'
+INFO  time: initialize in 0.55s
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+feb 16, 2020 11:50:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 203
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+feb 16, 2020 11:55:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 555
+feb 16, 2020 11:55:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 558
+feb 16, 2020 11:55:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 556
+feb 16, 2020 11:55:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 562
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+feb 16, 2020 12:03:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 879
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\heart.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\heart.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1318
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1320
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1323
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1321
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1327
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1334
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+GRAVE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 16 is not a valid line number, allowed [0..15]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:33)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:74)
+	at scala.meta.inputs.Position$Range$.lineLength$1(Position.scala:56)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionPositionLspInverse.toMeta(MetalsEnrichments.scala:193)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPC$1(Compilers.scala:254)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.metals.Compilers.withPC(Compilers.scala:250)
+	at scala.meta.internal.metals.Compilers.hover(Compilers.scala:169)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$hover$1(MetalsLanguageServer.scala:918)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:36)
+	at scala.meta.internal.metals.MetalsLanguageServer.hover(MetalsLanguageServer.scala:916)
+	... 15 more
+
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1336
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1331
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1338
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1328
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1339
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1330
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1333
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1341
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1343
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1350
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1351
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1352
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1353
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1354
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1344
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1355
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1345
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1348
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1356
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1359
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1366
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1357
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1368
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1358
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1361
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1371
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1374
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1375
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1376
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1369
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1377
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1370
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1373
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1383
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1384
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1378
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1386
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1379
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1381
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1389
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1391
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1392
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1395
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1398
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1393
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1399
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1394
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1401
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1397
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1403
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1404
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1407
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1408
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1409
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1411
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1420
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1418
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1419
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1412
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1422
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1413
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1416
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1424
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1426
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1425
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1428
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1430
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1433
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1435
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1438
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1442
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1444
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1446
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1449
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1443
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1451
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1440
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1439
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1452
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1456
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1461
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1465
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1457
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1459
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1458
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1466
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1467
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1471
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1470
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1468
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1475
+feb 16, 2020 1:44:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1478
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+ERROR scalafmt: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala:33: error: end of file expected but } found
+}
+^
+ERROR scalafmt: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala:33: error: end of file expected but } found
+}
+^
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+ERROR scalafmt: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala:76: error: end of file expected but } found
+}
+^
+ERROR scalafmt: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala:76: error: end of file expected but } found
+}
+^
+ERROR scalafmt: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala:76: error: end of file expected but } found
+}
+^
+ERROR scalafmt: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala:76: error: end of file expected but } found
+}
+^
+ERROR scalafmt: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala:76: error: end of file expected but } found
+}
+^
+ERROR scalafmt: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala:76: error: end of file expected but } found
+}
+^
+ERROR scalafmt: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala:76: error: end of file expected but } found
+}
+^
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+feb 16, 2020 2:54:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3119
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+feb 16, 2020 2:54:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3124
+feb 16, 2020 2:54:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3121
+feb 16, 2020 2:54:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3123
+feb 16, 2020 2:54:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3122
+feb 16, 2020 2:54:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3127
+feb 16, 2020 2:54:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3129
+feb 16, 2020 2:54:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3131
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+feb 16, 2020 3:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3132
+feb 16, 2020 3:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3133
+feb 16, 2020 3:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3137
+feb 16, 2020 3:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3134
+feb 16, 2020 3:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3138
+feb 16, 2020 3:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3142
+feb 16, 2020 3:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3144
+feb 16, 2020 3:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3125
+feb 16, 2020 3:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3146
+feb 16, 2020 3:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3126
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+feb 16, 2020 3:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3148
+feb 16, 2020 3:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3151
+feb 16, 2020 3:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3154
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+feb 16, 2020 3:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3158
+feb 16, 2020 3:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3162
+feb 16, 2020 3:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3163
+feb 16, 2020 3:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3164
+INFO  started: Metals version 0.8.0 in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'
+INFO  time: initialize in 0.29s
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\example\src\main\scala\SimpleApp.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+something's wrong: no file:///c%3A/Users/elias/Desktop/RetoSpark/docker-spark/scala/code/example/src/main/scala/SimpleApp.scala in Array[String]RangePosition(file:///c%3A/Users/elias/Desktop/RetoSpark/docker-spark/scala/code/example/src/main/scala/SimpleApp.scala, 81, 81, 94)
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\heart\src\main\scala\HeartSpark.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Users\elias\Desktop\RetoSpark\docker-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\elias\Desktop\RetoSpark\docker-spark\scala\code\movies\src\main\scala\Movies.scala
