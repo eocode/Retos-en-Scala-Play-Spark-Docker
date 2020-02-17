@@ -180,7 +180,7 @@ Los archivos fuente se encuentran dentro de la carpeta /scala
 * /code (contiene el código escrito en scala)
 * /data (contiene las fuentes de datos)
 
-Los archivos se encuentran en /home
+Dentro del contenedor los archivos se encuentran en /home
 
 Para ejecutar el ejemplo de spark
 
@@ -259,6 +259,13 @@ La tarea se puede ver en http://localhost:4040
 
 <div align="center">
   <img src="images/SparkHeart.png">
+  <small><p>Resultado del programa</p></small>
+</div>
+
+Al final se muestran algunas tareas completadas en Spark
+
+<div align="center">
+  <img src="images/Spark final.png">
   <small><p>Resultado del programa</p></small>
 </div>
 
