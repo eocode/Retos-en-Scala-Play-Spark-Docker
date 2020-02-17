@@ -1,7 +1,7 @@
 
 # Reto Spark <!-- omit in toc -->
 
-Mi primer código en Spark/Scala montado en un contenedor Docker
+Primeros pasos en Spark/Scala montado en un contenedor Docker
 
 ## Tabla de Contenido<!-- omit in toc -->
 - [Retos a realizar](#retos-a-realizar)
