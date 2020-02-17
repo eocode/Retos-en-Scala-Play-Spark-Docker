@@ -35,7 +35,8 @@ Resultados esperados:
 	* Crear un archivo .jar para ejecución en un cluster de Spark.
 
 # Metodología de solución
-Al no saber sobre estás tecnologías el primer paso fue la contextualización sobre Hadoop, Spark y Scala. 
+El primer paso fue la contextualización sobre Hadoop, Spark y Scala. 
+
 Los pasos fueron los siguientes
 
 * Probar Scala y SBT en Windows 10 junto con Scalafiddle
