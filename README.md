@@ -256,6 +256,8 @@ object Movies {
 }
 ```
 
+Para ejecutar el código anterior:
+
 ```bash
 cd /home/code/movies
 sbt package
@@ -338,6 +340,8 @@ object HeartSpark {
   }
 }
 ```
+
+Para ejecutar el código anterior:
 
 ```bash
 cd /home/code/heart
