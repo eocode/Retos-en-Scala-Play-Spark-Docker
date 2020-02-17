@@ -1,7 +1,1 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/code/heart/target/scala-2.11/heart_2.11-1.0.jar ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	HeartSpark$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/code/heart/target/scala-2.11/classes/HeartSpark$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	HeartSpark.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/code/heart/target/scala-2.11/classes/HeartSpark.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /home/code/heart/target/scala-2.11/heart_2.11-1.0.jar[0m
