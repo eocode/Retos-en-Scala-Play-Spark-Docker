@@ -362,7 +362,7 @@ Para enviarlo a SPARK
 ```
 
 <div align="center">
-  <img src="images/Reto2.png">
+  <img src="images/Reto22.png">
   <small><p>Resultado del programa</p></small>
 </div>
 
