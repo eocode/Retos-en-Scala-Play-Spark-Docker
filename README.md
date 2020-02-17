@@ -268,7 +268,7 @@ Compila el código y genera el .jar en target/scala-2.11/movies_2.11-1.0.jar
 
 <div align="center">
   <img src="images/SBTMovies.png">
-  <small><p>Resultado del programa</p></small>
+  <small><p>Compilación del programa</p></small>
 </div>
 
 Para enviarlo a SPARK
@@ -352,7 +352,7 @@ Compila el código y genera el .jar en target/scala-2.11/heart_2.11-1.0.jar
 
 <div align="center">
   <img src="images/SBTHeart.png">
-  <small><p>Resultado del programa</p></small>
+  <small><p>Compilación del programa</p></small>
 </div>
 
 Para enviarlo a SPARK
@@ -380,14 +380,14 @@ La tarea se puede ver en http://localhost:4040
 
 <div align="center">
   <img src="images/SparkHeart.png">
-  <small><p>Resultado del programa</p></small>
+  <small><p>Listado de Jobs</p></small>
 </div>
 
 Al final se muestran algunas tareas completadas en Spark
 
 <div align="center">
-  <img src="images/SparkFinal.png">
-  <small><p>Resultado del programa</p></small>
+  <img src="images/SPARKFinal.png">
+  <small><p>Resultado de ejecución</p></small>
 </div>
 
 # Apuntes
