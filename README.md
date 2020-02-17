@@ -78,7 +78,8 @@ Para probar scripts sencillos en Scala via web
 
 1.- Descarga del repositorio y posicionarse en la carpeta
 ```shell
-cd docker-spark
+https://github.com/eocode/spark-scala.git
+cd spark-scala
 ```
 
 Ahora, se pueden seguir dos caminos, si no importa contar con las últimas versiones ejecutar la versión rápida
@@ -196,6 +197,8 @@ sbt package
 
 ## Reto 1
 
+El dataset u.data contiene estadísticas de películas vistas antes de la fecha 4/1998. Encontrar las 10 películas más vistas del dataset.
+
 ```bash
 cd /home/code/heart
 sbt package
@@ -221,6 +224,8 @@ Para enviarlo a SPARK
 ```
 
 ## Reto 2
+
+El dataset heart.csv contiene registros médicos de pruebas cardiovasculares. Encontrar el promedio de colesterol (columna chol) de las personas entre las edades de 40 y 50 años.
 
 ```bash
 cd /home/code/heart
