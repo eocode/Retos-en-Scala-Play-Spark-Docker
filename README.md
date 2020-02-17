@@ -200,7 +200,7 @@ sbt package
 El dataset u.data contiene estadísticas de películas vistas antes de la fecha 4/1998. Encontrar las 10 películas más vistas del dataset.
 
 ```bash
-cd /home/code/heart
+cd /home/code/movies
 sbt package
 ```
 
