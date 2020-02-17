@@ -200,7 +200,7 @@ sbt package
 
 El dataset u.data contiene estadísticas de películas vistas antes de la fecha 4/1998. Encontrar las 10 películas más vistas del dataset.
 
-Asumiendo que cada fila es una reproducción de la pelicula, el código es el siguiente
+Asumiendo que cada fila es una reproducción de la pelicula, se tomaron como visitas los ids de usuario, obteniendo lo siguiente
 
 ```scala
 // /home/code/movies/src/main/scala/Movies.scala
@@ -249,10 +249,10 @@ object Movies {
     val parquetMoviesFile = spark.read.parquet("/home/data/movies.parquet")
     parquetMoviesFile.createOrReplaceTempView("parquetMoviesFile")
     val top = spark.sql(
-      "SELECT movie_id, count(movie_id) views FROM parquetMoviesFile group by movie_id order by 2 limit 10"
+      "SELECT movie_id, count(user_id) views, count(distinct user_id) unique_views FROM parquetMoviesFile group by movie_id order by count(user_id) desc limit 10"
     )
     // Show query
-    top.select($"movie_id", $"views").show()
+    top.select($"movie_id", $"views", $"unique_views").show()
   }
 }
 ```

@@ -1,1 +1,7 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: /home/code/movies/target/scala-2.11/movies_2.11-1.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/code/movies/target/scala-2.11/movies_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Movies$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/code/movies/target/scala-2.11/classes/Movies$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Movies.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/code/movies/target/scala-2.11/classes/Movies.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

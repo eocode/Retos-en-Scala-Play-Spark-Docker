@@ -43,9 +43,9 @@ object Movies {
     val parquetMoviesFile = spark.read.parquet("/home/data/movies.parquet")
     parquetMoviesFile.createOrReplaceTempView("parquetMoviesFile")
     val top = spark.sql(
-      "SELECT movie_id, count(movie_id) views FROM parquetMoviesFile group by movie_id order by 2 limit 10"
+      "SELECT movie_id, count(user_id) views, count(distinct user_id) unique_views FROM parquetMoviesFile group by movie_id order by count(user_id) desc limit 10"
     )
     // Show query
-    top.select($"movie_id", $"views").show()
+    top.select($"movie_id", $"views", $"unique_views").show()
   }
 }
