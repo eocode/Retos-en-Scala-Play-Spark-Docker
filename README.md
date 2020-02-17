@@ -78,7 +78,7 @@ Para probar scripts sencillos en Scala via web
 
 1.- Descarga del repositorio y posicionarse en la carpeta
 ```shell
-https://github.com/eocode/spark-scala.git
+git clone https://github.com/eocode/spark-scala.git
 cd spark-scala
 ```
 
