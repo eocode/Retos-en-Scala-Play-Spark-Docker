@@ -386,7 +386,7 @@ La tarea se puede ver en http://localhost:4040
 Al final se muestran algunas tareas completadas en Spark
 
 <div align="center">
-  <img src="images/Spark final.png">
+  <img src="images/SparkFinal.png">
   <small><p>Resultado del programa</p></small>
 </div>
 
