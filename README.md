@@ -16,6 +16,7 @@ Mi primer código en Spark/Scala montado en un contenedor Docker
     - [Instalación lenta](#instalaci%c3%b3n-lenta)
 - [Solución de los ejercicios](#soluci%c3%b3n-de-los-ejercicios)
   - [Reto 1](#reto-1)
+  - [Reto 2](#reto-2)
 - [Apuntes](#apuntes)
 
 # Retos a realizar
@@ -280,7 +281,6 @@ Para enviarlo a SPARK
   <img src="images/Reto1.png">
   <small><p>Resultado del programa</p></small>
 </div>
-```
 
 ## Reto 2
 
