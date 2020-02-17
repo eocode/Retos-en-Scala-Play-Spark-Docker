@@ -199,6 +199,63 @@ sbt package
 
 El dataset u.data contiene estadísticas de películas vistas antes de la fecha 4/1998. Encontrar las 10 películas más vistas del dataset.
 
+Asumiendo que cada fila es una reproducción de la pelicula, el código es el siguiente
+
+```scala
+// /home/code/movies/src/main/scala/Movies.scala
+import scala.io.Source
+import org.apache.spark.sql.SparkSession
+import scala.reflect.io.Directory
+import java.io.File
+import scala.util.Try
+
+object Movies {
+  def main(args: Array[String]) {
+    // Session Spark
+    val spark = SparkSession
+      .builder()
+      .appName("Movies")
+      .config("spark.some.config.option", "some-value")
+      .getOrCreate()
+
+    // Run Task
+    runHeart(spark)
+
+    spark.stop()
+  }
+  private def runHeart(spark: SparkSession): Unit = {
+
+    import spark.implicits._
+
+    // Read CSV file
+    val readMoviesCSV = spark.read
+      .format("csv")
+      .option("sep", "	")
+      .option("inferSchema", "true")
+      .option("header", "true")
+      .load("/home/data/u.data")
+
+    // Remove parquet
+    val directory = new Directory(new File("/home/data/movies.parquet"))
+    if(directory.exists){
+      directory.deleteRecursively()
+      readMoviesCSV.write.parquet("/home/data/movies.parquet")
+    }else{
+    // Transform to Parket for columnar data
+      readMoviesCSV.write.parquet("/home/data/movies.parquet")
+    }
+
+    val parquetMoviesFile = spark.read.parquet("/home/data/movies.parquet")
+    parquetMoviesFile.createOrReplaceTempView("parquetMoviesFile")
+    val top = spark.sql(
+      "SELECT movie_id, count(movie_id) views FROM parquetMoviesFile group by movie_id order by 2 limit 10"
+    )
+    // Show query
+    top.select($"movie_id", $"views").show()
+  }
+}
+```
+
 ```bash
 cd /home/code/movies
 sbt package
@@ -226,6 +283,61 @@ Para enviarlo a SPARK
 ## Reto 2
 
 El dataset heart.csv contiene registros médicos de pruebas cardiovasculares. Encontrar el promedio de colesterol (columna chol) de las personas entre las edades de 40 y 50 años.
+
+```scala
+// /home/code/heart/src/main/scala/Heart.scala
+import scala.io.Source
+import org.apache.spark.sql.SparkSession
+import scala.reflect.io.Directory
+import java.io.File
+import scala.util.Try
+
+object HeartSpark {
+  def main(args: Array[String]) {
+    // Session Spark
+    val spark = SparkSession
+      .builder()
+      .appName("Heart")
+      .config("spark.some.config.option", "some-value")
+      .getOrCreate()
+
+    // Run Task
+    runHeart(spark)
+
+    spark.stop()
+  }
+  private def runHeart(spark: SparkSession): Unit = {
+
+    import spark.implicits._
+
+    // Read CSV file
+    val readHeartCSV = spark.read
+      .format("csv")
+      .option("sep", ",")
+      .option("inferSchema", "true")
+      .option("header", "true")
+      .load("/home/data/heart.csv")
+
+    // Remove parquet
+    val directory = new Directory(new File("/home/data/heart.parquet"))
+    if(directory.exists){
+      directory.deleteRecursively()
+      readHeartCSV.write.parquet("/home/data/heart.parquet")
+    }else{
+    // Transform to Parket for columnar data
+      readHeartCSV.write.parquet("/home/data/heart.parquet")
+    }
+
+    val parquetHeartFile = spark.read.parquet("/home/data/heart.parquet")
+    parquetHeartFile.createOrReplaceTempView("parquetHeartFile")
+    val age = spark.sql(
+      "SELECT AVG(chol) as avg FROM parquetHeartFile where age BETWEEN 40 AND 50"
+    )
+    // Show query
+    age.select($"avg").show()
+  }
+}
+```
 
 ```bash
 cd /home/code/heart
