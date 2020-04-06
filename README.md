@@ -1,7 +1,9 @@
 
-# Reto Spark <!-- omit in toc -->
+# Retos <!-- omit in toc -->
 
-Primeros pasos en Spark/Scala montado en un contenedor Docker
+Primeros pasos en Spark/Scala montado un contenedor Docker y un API REST
+## RETO API REST con Scala-Play <!-- omit in toc -->
+Los detalles se encuentran en: (Repositorio del proyecto)[https://github.com/eocode/Scala-play-movies-API]
 
 ## Tabla de Contenido<!-- omit in toc -->
 - [Retos a realizar](#retos-a-realizar)
