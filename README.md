@@ -3,7 +3,7 @@
 
 Primeros pasos en Spark/Scala montado un contenedor Docker y un API REST
 ## RETO API REST con Scala-Play <!-- omit in toc -->
-Los detalles se encuentran en: (Repositorio del proyecto)[https://github.com/eocode/Scala-play-movies-API]
+Los detalles se encuentran en: [Repositorio del proyecto](https://github.com/eocode/Scala-play-movies-API)
 
 ## Tabla de Contenido<!-- omit in toc -->
 - [Retos a realizar](#retos-a-realizar)
